@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/sanjeet23j/react-to-do-list/static/css/main.e981f8dd.chunk.css",
+    "main.js": "/sanjeet23j/react-to-do-list/static/js/main.e72f88f2.chunk.js",
+    "main.js.map": "/sanjeet23j/react-to-do-list/static/js/main.e72f88f2.chunk.js.map",
+    "runtime-main.js": "/sanjeet23j/react-to-do-list/static/js/runtime-main.a0b5ddfe.js",
+    "runtime-main.js.map": "/sanjeet23j/react-to-do-list/static/js/runtime-main.a0b5ddfe.js.map",
+    "static/js/2.444e4141.chunk.js": "/sanjeet23j/react-to-do-list/static/js/2.444e4141.chunk.js",
+    "static/js/2.444e4141.chunk.js.map": "/sanjeet23j/react-to-do-list/static/js/2.444e4141.chunk.js.map",
+    "static/js/3.55a254ae.chunk.js": "/sanjeet23j/react-to-do-list/static/js/3.55a254ae.chunk.js",
+    "static/js/3.55a254ae.chunk.js.map": "/sanjeet23j/react-to-do-list/static/js/3.55a254ae.chunk.js.map",
+    "index.html": "/sanjeet23j/react-to-do-list/index.html",
+    "static/css/main.e981f8dd.chunk.css.map": "/sanjeet23j/react-to-do-list/static/css/main.e981f8dd.chunk.css.map",
+    "static/js/2.444e4141.chunk.js.LICENSE.txt": "/sanjeet23j/react-to-do-list/static/js/2.444e4141.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a0b5ddfe.js",
+    "static/js/2.444e4141.chunk.js",
+    "static/css/main.e981f8dd.chunk.css",
+    "static/js/main.e72f88f2.chunk.js"
+  ]
+}
